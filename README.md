@@ -28,12 +28,5 @@ Hoje, sigo dedicado a aprender, aprimorar minhas habilidades e construir uma car
  <br>
  <br>
 
-### 🤖 Estatísticas
-
-<img
-  align="left" alt="Github Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Marquinhos001&show_icons=true&theme=tokyonight&locale=pt-br" />
-
-<img
-  align="left" alt="Github Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marquinhos001&layout=compact&custom_title=Tecnologias&theme=tokyonight&locale=pt-br&langs_count=9" />
 
 
